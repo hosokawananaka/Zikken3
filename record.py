@@ -7,7 +7,7 @@ import os
 import sys
 from glob import glob
 
-
+#a
 def record(idx, sr, framesize, t):
     pa = pyaudio.PyAudio()
     data = []
